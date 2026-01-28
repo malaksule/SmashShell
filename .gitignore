@@ -1,0 +1,13 @@
+# IDE
+.idea/
+
+# Build artifacts
+cmake-build-debug/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Flutter (not part of this repo)
+flutter_application_iot/
