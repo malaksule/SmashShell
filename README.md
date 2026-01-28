@@ -49,16 +49,7 @@ The shell demonstrates practical use of **POSIX system calls** and **signal hand
 - Structured the project into clear modules (commands, signals, shell core)
 
 ---
-
-## Build & Run
-
-### Using Makefile
-```bash
-make
-./smash
-
-
-What I Learned
+##What I Learned
 
 Low-level Linux process control
 
@@ -70,8 +61,18 @@ Debugging complex runtime behavior in C/C++
 
 Writing modular and maintainable systems code
 
-
-Notes
+---
+##Notes
 
 This project was developed as part of an academic assignment.
 It is intended to demonstrate understanding of operating systems concepts rather than to replace a full-featured shell.
+
+
+## Build & Run
+
+### Using Makefile
+```bash
+make
+./smash
+
+
