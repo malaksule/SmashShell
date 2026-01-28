@@ -1,0 +1,3 @@
+C:/Users/malak/CLionProjects/HW1_OS/cmake-build-debug/CMakeFiles/HW1_OS.dir
+C:/Users/malak/CLionProjects/HW1_OS/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/malak/CLionProjects/HW1_OS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
