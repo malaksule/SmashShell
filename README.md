@@ -37,5 +37,41 @@ The shell demonstrates practical use of **POSIX system calls** and **signal hand
 
 ---
 
-## Project Structure
 
+---
+
+## My Role
+
+- Implemented command execution logic using `fork` and `execvp`
+- Designed job management and background execution handling
+- Implemented signal handlers for interactive shell control
+- Debugged race conditions and process-lifecycle issues
+- Structured the project into clear modules (commands, signals, shell core)
+
+---
+
+## Build & Run
+
+### Using Makefile
+```bash
+make
+./smash
+
+
+What I Learned
+
+Low-level Linux process control
+
+Signal handling and job control mechanisms
+
+Designing interactive CLI programs
+
+Debugging complex runtime behavior in C/C++
+
+Writing modular and maintainable systems code
+
+
+Notes
+
+This project was developed as part of an academic assignment.
+It is intended to demonstrate understanding of operating systems concepts rather than to replace a full-featured shell.
