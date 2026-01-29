@@ -45,7 +45,6 @@ The shell demonstrates practical use of **POSIX system calls** and **signal hand
 - Implemented command execution logic using `fork` and `execvp`
 - Designed job management and background execution handling
 - Implemented signal handlers for interactive shell control
-- Debugged race conditions and process-lifecycle issues
 - Structured the project into clear modules (commands, signals, shell core)
 
 ---
